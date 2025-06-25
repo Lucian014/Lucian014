@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Lucian Covaliuc</h1>
+<h1 align="center">Hi 👋, I'm Lucian </h1>
 <h3 align="center">A passionate Software Developer from Romania 🇷🇴</h3>
 
 <p align="center">
