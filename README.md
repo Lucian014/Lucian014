@@ -69,7 +69,7 @@
   A responsive UI clone of Netflix using React.js
 
 - 🔗 [**Wellness-Corner**](https://github.com/MOMOKILLER000/Wellness-Corner)  
-  A fitness and nutrition tracker built in React Native
+  A fitness and nutrition tracker built in Django 
 
 ---
 
