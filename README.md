@@ -71,6 +71,8 @@
 - 🔗 [**Wellness-Corner**](https://github.com/MOMOKILLER000/Wellness-Corner)  
   A fitness and nutrition tracker built in Django 
 
+- 🔗 [**Dungeon Escape**](https://github.com/Lucian014/Dungeon-Escape)  
+  A game fully made in Java about retrieving a treasure from a dungeon
 ---
 
 ## 📊 GitHub Analytics
