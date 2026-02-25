@@ -9,16 +9,13 @@
   <a href="https://github.com/Lucian014">
     <img src="https://img.shields.io/badge/GitHub-Lucian014-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://wa.me/40745703069">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp" />
-  </a>
 </p>
 
 ---
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Enthusiast;React+Native+Fan;Always+Learning...&center=true&width=450&height=45&color=00F7FF&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Enthusiast;React+Fan;Always+Learning...&center=true&width=450&height=45&color=00F7FF&vCenter=true">
 </p>
 
 ---
@@ -26,7 +23,7 @@
 ## 💡 About Me
 
 - 🔭 Currently building: **DriveQuest** (car rental app)
-- 🌱 Learning: `Rust`, `System Design`, `Kubernetes`
+- 🌱 Learning: `Rust`, `System Design`
 - 💬 Ask me about: **JavaScript, Python, React, APIs**
 - 💼 Open to full-stack internship opportunities
 - 🧠 Strong with: algorithms, problem solving, UI architecture
